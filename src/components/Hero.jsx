@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import Button from './Button';
 import { ScrollTrigger } from "gsap/all";
 import { TiLocationArrow } from 'react-icons/ti';
